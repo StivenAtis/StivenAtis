@@ -38,7 +38,9 @@
 
 <p align="center">
 <a href="https://open.spotify.com/user/dmoc8zhqq1qn8539fsqwiqyf6">
+  <img src="https://github.com/StivenAtis/media/blob/main/3358013.png" width="150"></a>
   <img src="https://spotify-readme-psi.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" alt="Current Spotify Song">
+  <img src="https://github.com/StivenAtis/media/blob/main/3358013.png" width="150"></a>
 </a>
 
 ----------------------------------

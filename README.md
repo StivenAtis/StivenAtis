@@ -1,3 +1,5 @@
+![alt text](https://github.com/Booh-rm/Media/blob/main/booh%20(1).gif)
+
 <h1 align="center">
   Hi, I’m Stiven!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
